@@ -60,6 +60,7 @@ h1, h3 {
 
 .socials a {
   margin: 0 2%;
+  transition-duration: 0.15s;
 }
 
 .socials a:hover {
